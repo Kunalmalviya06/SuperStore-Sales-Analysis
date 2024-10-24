@@ -47,6 +47,6 @@ The analysis will provide valuable insights into shipment data, enabling ShipFas
 - [LinkedIn Profile](https://www.linkedin.com/in/kunal-malviya-0b6340289/details/skills/)
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. You can view the full license text [here](https://opensource.org/licenses/MIT)
 
 ---
