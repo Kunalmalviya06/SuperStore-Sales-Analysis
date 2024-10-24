@@ -1,7 +1,7 @@
-# Superstore Sales Analysis
 ![Dashboard 1](Dashboard1.jpg)
 ![Dashboard 2](Dashboard2.jpg)
 
+# Superstore Sales Analysis
 ## Table of Contents
 1. [Problem Statement](#problem-statement)  
 2. [Stakeholders](#stakeholders)  
